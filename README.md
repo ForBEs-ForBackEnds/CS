@@ -15,5 +15,5 @@
    - [수정] : 저장소에 등록된 글 중 수정이 필요한 경우
 
 ### 참고 강의 목록
-1. [면접 전에 알고 가면 좋을 것들](#https://www.inflearn.com/course/%EB%A9%B4%EC%A0%91-%EC%8B%A0%EC%9E%85-java-%EB%B0%B1%EC%95%A4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90/dashboard)
+1. [면접 전에 알고 가면 좋을 것들](https://www.inflearn.com/course/%EB%A9%B4%EC%A0%91-%EC%8B%A0%EC%9E%85-java-%EB%B0%B1%EC%95%A4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90/dashboard)
 

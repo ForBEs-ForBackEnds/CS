@@ -31,3 +31,10 @@
 ### 참고 강의 목록
 1. [면접 전에 알고 가면 좋을 것들](https://www.inflearn.com/course/%EB%A9%B4%EC%A0%91-%EC%8B%A0%EC%9E%85-java-%EB%B0%B1%EC%95%A4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90/dashboard)
 
+
+## Network
+
+- [웹 서비스 구조](/Network/웹_서비스_구조.md)
+
+## OS
+- [멀티태스킹과 멀티프로세싱](/OS/멀티태스킹_멀티프로세싱.md)

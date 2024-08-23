@@ -29,7 +29,7 @@
    - [수정] : 저장소에 등록된 글 중 수정이 필요한 경우
 
 ## Data Structure
-- [스택, 큐, 데크](스택_큐_데크.md)
+- [스택, 큐, 데크](/DataStructure/스택_큐_데크.md)
 ##### 참고자료
 - [인프런 김영한 자바 중급 2편](https://www.inflearn.com/course/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89-2/dashboard)
 

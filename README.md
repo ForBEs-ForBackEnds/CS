@@ -28,16 +28,20 @@
    - [추가] : 저장소에 들어가면 좋을 내용이 있을 경우
    - [수정] : 저장소에 등록된 글 중 수정이 필요한 경우
 
-### 참고 강의 목록
-1. [면접 전에 알고 가면 좋을 것들](https://www.inflearn.com/course/%EB%A9%B4%EC%A0%91-%EC%8B%A0%EC%9E%85-java-%EB%B0%B1%EC%95%A4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90/dashboard)
-
+## Data Structure
+- [스택, 큐, 데크](/DataStructure/핵심_자료구조_정리.md)
+##### 참고자료
+- [인프런 김영한 자바 중급 2편](https://www.inflearn.com/course/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EC%A4%91%EA%B8%89-2/dashboard)
 
 ## Network
-
 - [웹 서비스 구조](/Network/웹_서비스_구조.md)
 - [웹 서비스 구조 확장](/Network/웹_서비스_구조_확장.md)
+##### 참고자료
+- [면접 전에 알고 가면 좋을 것들](https://www.inflearn.com/course/%EB%A9%B4%EC%A0%91-%EC%8B%A0%EC%9E%85-java-%EB%B0%B1%EC%95%A4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90/dashboard)
 
 ## OS
 - [멀티태스킹과 멀티프로세싱](/OS/멀티태스킹_멀티프로세싱.md)
 - [프로세스와 스레드](/OS/프로세스와_스레드.md)
 - [컨텍스트 스위칭](/OS/컨텍스트_스위칭.md)
+##### 참고자료
+- [인프런 김영한 자바 고급 1편](https://www.inflearn.com/course/%EA%B9%80%EC%98%81%ED%95%9C%EC%9D%98-%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94-%EA%B3%A0%EA%B8%89-1/dashboard)

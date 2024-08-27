@@ -36,6 +36,7 @@
 ## Network
 - [웹 서비스 구조](/Network/웹_서비스_구조.md)
 - [웹 서비스 구조 확장](/Network/웹_서비스_구조_확장.md)
+- [브라우저에 URL을 입력하면 일어나는 일](/Network/브라우저에_URL을_입력하면_일어나는_일_그리고_DNS.md)
 ##### 참고자료
 - [면접 전에 알고 가면 좋을 것들](https://www.inflearn.com/course/%EB%A9%B4%EC%A0%91-%EC%8B%A0%EC%9E%85-java-%EB%B0%B1%EC%95%A4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90/dashboard)
 
